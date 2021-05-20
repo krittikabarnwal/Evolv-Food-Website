@@ -10,7 +10,7 @@ export default function Header() {
     <div className="header-company">
       <nav className=" navbar navbar-expand-lg navbar-light bg-light py-0">
         <div className="header-company-nav container-fluid">
-        <a href={"https://evolvfit.in/</div>"} target="_blank">
+        <a href={"https://evolvfit.in/"} target="_blank">
           <img src={logo} />
         </a>
           
